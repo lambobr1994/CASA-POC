@@ -1,0 +1,9 @@
+CASAID,Channel,Amount,TxnDate,Location,AcntName,DestAcntNo,SourceAcntNo,TxnTime,SuccessFg,TxnType
+1,30,5233,2/1/2020,Dampol,Abigale Sympson,,4354-9676,6:20 PM,TRUE,20
+2,20,3485,2/3/2020,Tinambac,Celestina Deakins,,3833-0225,7:57 AM,TRUE,30
+3,20,7624,2/16/2020,Prinza,Mic Billham,,1726-9333,7:08 PM,TRUE,30
+4,30,1622,2/21/2020,Bolilao,Valeria Deville,,4788-2112,6:23 PM,TRUE,30
+5,20,5269,2/22/2020,Carot,Angelika Esler,,9628-4425,1:29 AM,TRUE,30
+1001,20,2032,3/15/2023,Kalibo (poblacion),Gerri Heigl,,0467-2119,11:50 PM,FALSE,40
+1002,20,9811,3/16/2023,Buenavista,Neely Besson,4590-1802,6505-3594,11:52 PM,TRUE,10
+1003,20,2171,3/17/2023,Castañas,Gabie Covendon,,3050-6178,9:11 AM,FALSE,20
